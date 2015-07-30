@@ -13,9 +13,7 @@
 @end
 
 @implementation ViewController
-/**
- *  毛都没有。。
- */
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
